@@ -1,0 +1,2 @@
+Problem-6: Capitalize First Letter of Each Word
+Build a custom title formatter that capitalizes the first letter of each word without using .title().
